@@ -1,0 +1,15 @@
+F:\College\Projects\Music_Playlist_Manager\Music_Playlist_Manager\bin\Debug\net6.0\Music_Playlist_Manager.exe
+F:\College\Projects\Music_Playlist_Manager\Music_Playlist_Manager\bin\Debug\net6.0\Music_Playlist_Manager.deps.json
+F:\College\Projects\Music_Playlist_Manager\Music_Playlist_Manager\bin\Debug\net6.0\Music_Playlist_Manager.runtimeconfig.json
+F:\College\Projects\Music_Playlist_Manager\Music_Playlist_Manager\bin\Debug\net6.0\Music_Playlist_Manager.dll
+F:\College\Projects\Music_Playlist_Manager\Music_Playlist_Manager\bin\Debug\net6.0\Music_Playlist_Manager.pdb
+F:\College\Projects\Music_Playlist_Manager\Music_Playlist_Manager\obj\Debug\net6.0\Music_Playlist_Manager.csproj.AssemblyReference.cache
+F:\College\Projects\Music_Playlist_Manager\Music_Playlist_Manager\obj\Debug\net6.0\Music_Playlist_Manager.GeneratedMSBuildEditorConfig.editorconfig
+F:\College\Projects\Music_Playlist_Manager\Music_Playlist_Manager\obj\Debug\net6.0\Music_Playlist_Manager.AssemblyInfoInputs.cache
+F:\College\Projects\Music_Playlist_Manager\Music_Playlist_Manager\obj\Debug\net6.0\Music_Playlist_Manager.AssemblyInfo.cs
+F:\College\Projects\Music_Playlist_Manager\Music_Playlist_Manager\obj\Debug\net6.0\Music_Playlist_Manager.csproj.CoreCompileInputs.cache
+F:\College\Projects\Music_Playlist_Manager\Music_Playlist_Manager\obj\Debug\net6.0\Music_Playlist_Manager.dll
+F:\College\Projects\Music_Playlist_Manager\Music_Playlist_Manager\obj\Debug\net6.0\refint\Music_Playlist_Manager.dll
+F:\College\Projects\Music_Playlist_Manager\Music_Playlist_Manager\obj\Debug\net6.0\Music_Playlist_Manager.pdb
+F:\College\Projects\Music_Playlist_Manager\Music_Playlist_Manager\obj\Debug\net6.0\Music_Playlist_Manager.genruntimeconfig.cache
+F:\College\Projects\Music_Playlist_Manager\Music_Playlist_Manager\obj\Debug\net6.0\ref\Music_Playlist_Manager.dll
